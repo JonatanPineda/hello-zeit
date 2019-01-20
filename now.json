@@ -1,0 +1,7 @@
+{
+    "version": 2,
+    "name": "hello-zeit",
+    "builds": [
+        { "src": "*.go", "use": "@now/go" }
+    ]
+}
